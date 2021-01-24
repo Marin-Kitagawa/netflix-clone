@@ -1,5 +1,5 @@
 [![DeepScan grade](https://deepscan.io/api/teams/12630/projects/15680/branches/316214/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=12630&pid=15680&bid=316214)
-
+[![BCH compliance](https://bettercodehub.com/edge/badge/python-clojure/netflix-clone?branch=master)](https://bettercodehub.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
